@@ -1,0 +1,14 @@
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\bin\Debug\net10.0\Lista1Exe9.exe
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\bin\Debug\net10.0\Lista1Exe9.deps.json
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\bin\Debug\net10.0\Lista1Exe9.runtimeconfig.json
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\bin\Debug\net10.0\Lista1Exe9.dll
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\bin\Debug\net10.0\Lista1Exe9.pdb
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\Lista1Exe9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\Lista1Exe9.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\Lista1Exe9.AssemblyInfo.cs
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\Lista1Exe9.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\Lista1Exe9.dll
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\refint\Lista1Exe9.dll
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\Lista1Exe9.pdb
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\Lista1Exe9.genruntimeconfig.cache
+C:\Users\daniel\source\repos\Lista1Exe9\Lista1Exe9\obj\Debug\net10.0\ref\Lista1Exe9.dll
