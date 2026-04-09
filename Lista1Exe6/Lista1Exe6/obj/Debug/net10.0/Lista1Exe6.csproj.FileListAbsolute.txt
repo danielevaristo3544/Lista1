@@ -1,0 +1,14 @@
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\Lista1Exe6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\Lista1Exe6.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\Lista1Exe6.AssemblyInfo.cs
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\Lista1Exe6.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\bin\Debug\net10.0\Lista1Exe6.exe
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\bin\Debug\net10.0\Lista1Exe6.deps.json
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\bin\Debug\net10.0\Lista1Exe6.runtimeconfig.json
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\bin\Debug\net10.0\Lista1Exe6.dll
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\bin\Debug\net10.0\Lista1Exe6.pdb
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\Lista1Exe6.dll
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\refint\Lista1Exe6.dll
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\Lista1Exe6.pdb
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\Lista1Exe6.genruntimeconfig.cache
+C:\Users\daniel\source\repos\Lista1Exe6\Lista1Exe6\obj\Debug\net10.0\ref\Lista1Exe6.dll
